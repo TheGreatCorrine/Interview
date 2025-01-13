@@ -1,11 +1,11 @@
 ## Basic Questions
 1. Tell me about yourself.
   - 3rd year uoft student, pursuing a double major in computer science and business
-  Passion
+  __Passion__
   (option 1) interested in tech + business
   (option 2) traditional sde: in my first year, I took the basic programming course, and found my real interest; then GenAI is amazing - wants to explore more. I have decided to learn some llm next year. 
   (option 3) wants to be a product manager
-  Work Experience
+  __Work Experience__
   (option 2) traditional sde: I decided to be a sde.
 2. Why are you interested in our company?
 
