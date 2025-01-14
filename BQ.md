@@ -51,3 +51,6 @@ Veeva System:
 4. What is your career goal?
    software developer for the next 3 - 5 years, then I want to be a product manager in companies like Interac where I can leverage my business acumen and technical knowledge.
    Meanwhile, my friends and I have decided to release an AI-driven chatbox using LLM. If it is a huge success, I might focus on our startup.
+
+QA： better understanding of the SDLC, meticulous nature - do not want to see many bugs in my projects. good work-life balance。
+unit testing / manual testing / automated testing
