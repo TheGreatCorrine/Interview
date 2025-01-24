@@ -60,3 +60,5 @@ HOOPP:
 2. strength and weakness - plan and meet goals, team facilitator
    insomnia- overthink in the long term
    take on too much responsibility
+3. interested in the position
+   一年前对software development浓厚兴趣： 在我上金融课的时候用python在270解决了他们用excel很久才能解决的问题，感觉很有意思，team collaboration，为人解决real-world problem，proud of myself technical solutions
