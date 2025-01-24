@@ -56,4 +56,7 @@ QA： better understanding of the SDLC, meticulous nature - do not want to see m
 unit testing / manual testing / automated testing
 
 HOOPP:
-1. 
+1. company - friend, growing, innovative, finance
+2. strength and weakness - plan and meet goals, team facilitator
+   insomnia- overthink in the long term
+   take on too much responsibility
