@@ -56,10 +56,22 @@ QA： better understanding of the SDLC, meticulous nature - do not want to see m
 unit testing / manual testing / automated testing
 
 HOOPP:
-1. company - friend, growing, innovative, finance
-2. strength and weakness - plan and meet goals, team facilitator
+It’s impressive we’re both up and ready for this interview at 9 AM! It certainly shows dedication on both sides. I’m really excited to be speaking with you this early in the day—it sets a proactive tone for what I expect could be a very energetic team at HOOPP.
+
+   Before we begin, I just wanted to mention that I am using my home laptop and the camera is positioned quite high. If it seems like I’m not making direct eye contact, that’s the reason. I assure you I am fully focused on our conversation.
+
+1. company - friend, growing, innovative, finance，collaboration is emphasized
+   Professional Development: HOOPP is dedicated to the professional growth of its employees, providing various training and development opportunities to help staff advance their careers within the organization. This focus on growth helps maintain a highly skilled workforce and supports succession planning.
+3. strength and weakness - plan and meet goals, team facilitator
    insomnia- overthink in the long term
    take on too much responsibility
-3. interested in the position
+5. interested in the position
    一年前对software development浓厚兴趣： 在我上金融课的时候用python在270解决了他们用excel很久才能解决的问题，感觉很有意思，team collaboration，为人解决real-world problem，proud of myself technical solutions
    new technology的兴趣，然后希望研究business的结合，还有商业化
+1. Tell me about yourself
+   3rd-year student at the University of Toronto, pursuing a double major in computer science and business management.
+   During my academic life, I have developed a strong foundation in software development ( and also, some testing methodologies )
+   This is evident in my proactive approach to learning and applying cutting-edge technologies to solve real-world problems. I achieved good grades in many courses. And I also completed many school projects, like a search engine similar to Google, and a Java-based desktop stock trading application.
+   All these academic experiences helped me find my first and second work experience.
+   Last semester, I just completed my first internship, I worked 4 months as a software developer at Re: Pair Genomics. The project I worked on was the internal human resources management software. I was primarily responsible for the payroll part.
+   I am currently working as a student developer at the University of Toronto, where I lead 8 developers and UI/UX designers to redesign trading software. I wear multiple hats in this role and thus become even more familiar with the whole software development cycle. 
