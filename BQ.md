@@ -54,3 +54,6 @@ Veeva System:
 
 QA： better understanding of the SDLC, meticulous nature - do not want to see many bugs in my projects. good work-life balance。
 unit testing / manual testing / automated testing
+
+HOOPP:
+1. 
