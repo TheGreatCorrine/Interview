@@ -62,3 +62,4 @@ HOOPP:
    take on too much responsibility
 3. interested in the position
    一年前对software development浓厚兴趣： 在我上金融课的时候用python在270解决了他们用excel很久才能解决的问题，感觉很有意思，team collaboration，为人解决real-world problem，proud of myself technical solutions
+   new technology的兴趣，然后希望研究business的结合，还有商业化
