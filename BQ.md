@@ -74,4 +74,7 @@ It’s impressive we’re both up and ready for this interview at 9 AM! It certa
    This is evident in my proactive approach to learning and applying cutting-edge technologies to solve real-world problems. I achieved good grades in many courses. And I also completed many school projects, like a search engine similar to Google, and a Java-based desktop stock trading application.
    All these academic experiences helped me find my first and second work experience.
    Last semester, I just completed my first internship, I worked 4 months as a software developer at Re: Pair Genomics. The project I worked on was the internal human resources management software. I was primarily responsible for the payroll part.
-   I am currently working as a student developer at the University of Toronto, where I lead 8 developers and UI/UX designers to redesign trading software. I wear multiple hats in this role and thus become even more familiar with the whole software development cycle. 
+   I am currently working as a student developer at the University of Toronto, where I lead 8 developers and UI/UX designers to redesign trading software. I wear multiple hats in this role and thus become even more familiar with the whole software development cycle.
+
+
+下次问到自学的问题：stackoverflow / youtube
