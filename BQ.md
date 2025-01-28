@@ -1,16 +1,21 @@
-## Basic Questions
-1. Tell me about yourself. (This should be a quick overview)
+# Phone Screening
+
+## 0. Greetings
+Always start with an interesting greeting. 1 min
+
+## 1. Tell me about yourself
+1. Can you tell a little bit about yourself
+   Absolutely! I'm happy to share a bit more about myself.
   - 3rd-year student at the University of Toronto, pursuing a double major in computer science and business management.
-  - During my academic life, I have developed a strong foundation in software development ( and testing methodologies )
-  - __Passion__
-  (option 1) interested in tech + business
-  (option 2) Traditional SDE:  then GenAI is amazing - wants to explore more. I have decided to learn some llm next year.
-            I started my university journey as a Rotman Commerce student. During my first year, I enrolled in some basic programming courses out of curiosity and found myself interested in computer science. So I took more computer science courses and was invited to the program with a high admission grade.
-  (option 3) wants to be a product manager
-  - __Work Experience__
-  (option 2) traditional sde: I decided to be a sde.
-2. Why are you interested in our company?
+  - __Passion__: I am very interested in finance and technology, especially their integration. 我想成为最懂finance的sde， I love using my domain knowledge across both sectors to find the most efficient and cost-effective technical solutions for financial services.
+  This is evident in my academic life and hands-on project experience. I started my university journey as a Rotman Commerce student. In my first year, I took some introductory programming courses out of curiosity and was surprised by how well I performed. (I sometimes joke that my GPA would be even higher if I only took computer science courses) So I took more computer science courses and was invited to the program with a high admission grade. 
+  - __Experience__: After taking more computer science courses, 我觉得课本上的知识已经不足以满足我了，开始寻找apply to the real world的机会。tried to
+ proactively apply my technical skills to solve real-world problems.  I reached out to Rotman School’s Trading Lab and showed them a demo of my stock trading app project. They were impressed by our demo and decided to hire me as a student developer. They actually hire my whole team. 我从0开始设计了一个stock trading app for all Rotman students to practice trading，管理了整个lifecycle
+  我也为re： pair genomics找到最好的cloud-based solutions
+
+## 2. Why are you interested in our company?
   - Referral and Recommendation: I first became interested in the company because my friend recommended ...
+  - Invest in people (fast response), innovation(JD)
   - knowledge of the company (core values): After further research, I am impressed by ... 
   - alignment with my personal goals and personal interest: I have a strong interest in ... as well
   - cultural fit and growth opportunities
@@ -20,7 +25,11 @@
 4. What is your career goal?
 
 5. Why should we hire you?
-
+  - solid foundation 这是基础
+  - dual expertise: 最懂banking的程序员(financially knowledgeable sde)，有business acumen，从higher level去理解一些设计在真实世界的限制
+  - team player: bring a good team vibe
+  - self-study: self-motivated person. I can learn whatever needed, and have a wide range of domain knowledge
+  - faster learner: 掌握了
 6. Use a few words to describe yourself.
   Good team player: build great team vibe, enjoy working with people
 
@@ -76,5 +85,6 @@ It’s impressive we’re both up and ready for this interview at 9 AM! It certa
    Last semester, I just completed my first internship, I worked 4 months as a software developer at Re: Pair Genomics. The project I worked on was the internal human resources management software. I was primarily responsible for the payroll part.
    I am currently working as a student developer at the University of Toronto, where I lead 8 developers and UI/UX designers to redesign trading software. I wear multiple hats in this role and thus become even more familiar with the whole software development cycle.
 
+谈谈  (option 2) Traditional SDE:  then GenAI is amazing - wants to explore more. I have decided to learn some llm next year.
 
 下次问到自学的问题：stackoverflow / youtube
