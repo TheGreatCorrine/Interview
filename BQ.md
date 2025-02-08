@@ -88,3 +88,29 @@ It’s impressive we’re both up and ready for this interview at 9 AM! It certa
 谈谈  (option 2) Traditional SDE:  then GenAI is amazing - wants to explore more. I have decided to learn some llm next year.
 
 下次问到自学的问题：stackoverflow / youtube
+
+
+### Hydro one:
+Hi, I’m Corrine, I'm pursuing a double major in Computer Science and Business Management at the University of Toronto. My academic and project experience has given me strong technical skills and IT management skills that I can contribute to the position. In my Computer Science courses, I often take on roles like Product Manager and Project Manager. I often manage the full development lifecycle, from the initial product design to development and deployment. For example, I am currently leading a team of 8 developers to develop a large-scale stock trading application for UofT. I wrote the product requirement document, showed my manager a one-year-long development plan, scheduled weekly meetings, tracked each person's progress, and managed workflows on GitHub."
+
+"I’ve also managed projects for U of T’s Risk Lab summer camp and served as a program coordinator for the Woodsworth College Mentorship Program. These experiences have strengthened my organizational skills and passion for seeing projects through from start to finish. I really enjoy collaborating with my teams and watching a project come together successfully.
+
+
+__a time when you noticed a process or something that can be improved and what did you do about it__
+I also encountered a situation where I noticed a process that could be improved. While designing human resources management software for a startup, I discovered they were using AWS EC2, which was costing them $500 annually. Given that the startup had only about a dozen employees and low traffic, this expense was unnecessary. I researched alternatives and found that AWS Lambda would be a more cost-effective solution, offering scalable serverless architecture perfect for their needs.
+
+I prepared a detailed cost-benefit analysis comparing EC2 and Lambda. I visualized the data and made some dashboards highlighting potential savings and improved efficiency. I presented this to the CEO, explaining the technical benefits in simple terms and addressing potential concerns about migration and system performance. By demonstrating a clear understanding of both the technical and financial implications, I gained his trust, and he decided to implement the change. This switch significantly reduced their infrastructure costs and optimized their operations.
+
+
+
+- __how you work with a coworker of different background and personality__
+I value working in teams with diverse backgrounds and personalities because it brings new perspectives and innovative ideas. Different strengths complement each other, and no one excels in all areas. While similar backgrounds offer shared expertise, they can limit problem-solving in unfamiliar areas. For example, in my first year when I was taking business courses, all of my teammates did not know how to handle data and no one knew how to use Python to streamline the data handling process. I ended up doing everything myself and we got an okay grade. They were very likely to have a low mark without me.
+
+For another example, which is actually a good example, when developing a stock trading application, I naturally led the business logic because of my finance background, while another teammate with four years of design experience handled the front-end tasks. We trusted her UI/UX expertise and gave her creative freedom to design a user-friendly interface. 
+
+When it comes to personalities, I try to ask everyone about their workstyle preference and schedules. Every time when I schedule meetings, I try to accommodate everyone's time and make all of us feel comfortable. I believe the key to success is aligning everyone towards a common goal, respecting their work styles and expertise, and confidently delegating tasks.
+
+__a project that you’re proud of and steps you did to make it a success__
+
+__a failure and what you learnt from it__
+interpret technical solutions to non-technical persons
