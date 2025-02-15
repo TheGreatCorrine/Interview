@@ -17,6 +17,7 @@ Output2 = [{}] # nested dictionary
 
 """
 Question 2: Given an array, find i, j where arr[i] = arr[j], and maximize arr[i] + arr[i+1] + ... + arr[j-1] + arr[j]
+这个就不适合用two pointer，因为要比较sum的大小，所以用marker去追踪轨迹
 """
 
 """
