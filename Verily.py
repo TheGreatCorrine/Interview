@@ -13,6 +13,7 @@ Output2 = [{}] # nested dictionary
 # For example, 'id,_', we want to keep the comma 
 # My implementation was to rewrite the split method -> split2
 
+# TODO: can use regex
 
 """
 Question 2: Given an array, find i, j where arr[i] = arr[j], and maximize arr[i] + arr[i+1] + ... + arr[j-1] + arr[j]
