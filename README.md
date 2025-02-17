@@ -1,5 +1,7 @@
 # Reflection Log
 
+## 技术服务于业务，业务来源于需求，有个核心的问题：对于互联网软件的需求在逐步减少，而且创新也容易被抄走
+
 12.23
 - 可以问问Allen RSM353和一些special topics的课
 - 考虑考AWS证书，Foundational Cloud Practitioner for PM, and Associate Developer for sde.有的时候有cloud for her和一些线上活动有discount
