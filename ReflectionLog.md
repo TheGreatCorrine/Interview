@@ -21,3 +21,8 @@ HR interview必须准备的问题
 - 比较特殊的一个点是这个hr生病了，下次要多一点人文关怀
 - 还有就是对hr少聊一点技术细节，多展现你个人interpersonal skills，今天这个策略不对，聊的技术细节太多了
 
+
+2.17
+Verily问了你觉得你更偏full stack还是frontend
+你在设计product的时候更看什么 - 功能性，性能，价格
+
