@@ -26,3 +26,4 @@ HR interview必须准备的问题
 Verily问了你觉得你更偏full stack还是frontend
 你在设计product的时候更看什么 - 功能性，性能，价格
 
+System Design不是画架构图，而是你怎么把模糊的需求转换成可落地的方案，不需要是理论上的完美设计，而是包含trade-off的
