@@ -1,0 +1,6 @@
+- Make my own website
+  - Animations: try some design
+- Roadmap to web development
+- Network
+- OS
+- Leetcode
