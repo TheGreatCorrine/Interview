@@ -133,6 +133,11 @@ __2. JAVA AND MySQL__
 中文：
 会的，我有Java和MySQL的相关经验。在睿派基因的实习中，我参与了后端开发，虽然主要用的是Node.js和AWS，但我也写过Java应用程序,我们那个商学院的项目最初的demo就是使用java写的，后来我们考虑到concurrency level，用户使用等等都问题，一致认为用现代web开发语言和运行环境会比较好，于是换成了typescript（javascript的超类）加上node.js。至于SQL，我在多个项目中用PostgreSQL写过复杂查询、优化索引等，切换到MySQL这样的关系型数据库也完全没问题。
 
+__Time Commitment__
+- I’m available to work for at least four months, since my summer break is four months long.
+- If needed, I’m also flexible to stay one extra month before flying back to Canada, as most of my midterms are in October, so I don’t necessarily need to be back in September.
+- If the position requires a longer commitment, I’m also open to work remotely afterwards. I plan to reduce my course load next semester to make that possible.
+
 __3. Why BASF__
 英文：
 - I have to admit that BASF stands out to me mostly because of its global presence. BASF has a Toronto office and many other offices all over the world. 
