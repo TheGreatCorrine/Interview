@@ -118,24 +118,30 @@ interpret technical solutions to non-technical persons
 
 ### BASF:
 
-Greetings: Good evening from my end, my name is Corrine. I believe it's still morning on your side, right?
+Greetings: Good evening from my end, my name is Corrine. I believe it's still morning on your side, right? \
 __1. Tell me about yourself__
-   Absolutely, I'm happy to share a bit more about myself.
-   Corrine. 3rd-year undergraduate student at UofT. I have a double major in Computer Science and Business Management. I chose this combination; it's actually a lot of workload, compared to those with just one major and maybe a minor, because I’m not just interested in how systems are built technically, but also in how they’re designed to solve real business problems. I'm therefore very good at translating clients' needs into technical solutions. A good example of this is a recent part-time job I created for myself. I found their current app had many bugs, proposed a redevelopment plan, and made a demo project. The manager was surprised by the demo and then invited me to reimplement their educational trading application for all 5000 business students. I believe this would make me stand out compared to most software developers.
-   During my academic life, I’ve developed strong technical skills in full-stack web development. I'm proficient in most basic programming languages, for example, Python and Java, and their relevant frameworks like Flask and Spring. Apart from side projects and school projects, I have led the development of an HR system and a financial trading application. My team built these two apps from scratch, so I know the whole SDLC pretty well. If you want, I can introduce my projects in detail later on.
-   你好，我叫项奕宁，现在是多伦多大学大三学生。我现在在读计算机和商科双专业，连续三年获得院长荣誉奖。在实习和学校项目中我积累了很多前后端开发和系统优化的经验，比如我曾带领团队重构商学院的交易模拟平台，把它迁移到AWS云上，大大提升了系统的稳定性和使用体验。我非常热衷于系统搭建和跨团队协作，这次也很想了解像BASF这样的大企业是如何管理全球文档平台的。除此之外，我觉得我的一个亮点是，由于这个比较特殊的专业组合，我不仅会开发，还会挖掘客户需求。
-   我熟悉主流开发语言，特别是网站开发。
+   Absolutely, I'm happy to share a bit more about myself. \
+   Corrine. 3rd-year undergraduate student at UofT. I have a double major in Computer Science and Business Management. I chose this combination; it's actually a lot of workload, compared to those with just one major and maybe a minor, because I’m not just interested in how systems are built technically, but also in how they’re designed to solve real business problems. I'm therefore very good at translating clients' needs into technical solutions. A good example of this is a recent part-time job I created for myself. I found their current app had many bugs, proposed a redevelopment plan, and made a demo project. The manager was surprised by the demo and then invited me to reimplement their educational trading application for all 5000 business students. I believe this would make me stand out compared to most software developers. \
+   During my academic life, I’ve developed strong technical skills in full-stack web development. I'm proficient in most basic programming languages, for example, Python and Java, and their relevant frameworks like Flask and Spring. Apart from side projects and school projects, I have led the development of an HR system and a financial trading application. My team built these two apps from scratch, so I know the whole SDLC pretty well. If you want, I can introduce my projects in detail later on. \
+   你好，我叫项奕宁，现在是多伦多大学大三学生。我现在在读计算机和商科双专业，连续三年获得院长荣誉奖。在实习和学校项目中我积累了很多前后端开发和系统优化的经验，比如我曾带领团队重构商学院的交易模拟平台，把它迁移到AWS云上，大大提升了系统的稳定性和使用体验。我非常热衷于系统搭建和跨团队协作，这次也很想了解像BASF这样的大企业是如何管理全球文档平台的。除此之外，我觉得我的一个亮点是，由于这个比较特殊的专业组合，我不仅会开发，还会挖掘客户需求。 \
+   我熟悉主流开发语言，特别是网站开发。 \
 
 __2. JAVA AND MySQL__
-   Yes, I’ve used both Java and MySQL. During my internship at Re:Pair Genomics, I worked on a backend built with Node.js and AWS, and I'm also familiar with Java for application-level development.
-   For SQL specifically, I most work with PostgreSQL in multiple projects, including writing complex queries, optimizing indexes, and designing schemas. Since the core SQL syntax and relational concepts are shared across both PostgreSQL and MySQL, I’m confident that the transition from PQSL to MySQL or any other RDBMS would be smooth. 基本语法语义都是一样的，<img width="705" alt="Screenshot 2025-04-24 at 10 55 21 PM" src="https://github.com/user-attachments/assets/3783945d-a83b-458d-aadb-8fb2a2d7998b" />
+   Yes, I’ve used both Java and MySQL. During my internship at Re:Pair Genomics, I worked on a backend built with Node.js and AWS, and I'm also familiar with Java for application-level development. \
+   For SQL specifically, I most work with PostgreSQL in multiple projects, including writing complex queries, optimizing indexes, and designing schemas. Since the core SQL syntax and relational concepts are shared across both PostgreSQL and MySQL, I’m confident that the transition from PQSL to MySQL or any other RDBMS would be smooth. 基本语法语义都是一样的，\
 
 中文：
 会的，我有Java和MySQL的相关经验。在睿派基因的实习中，我参与了后端开发，虽然主要用的是Node.js和AWS，但我也写过Java应用程序,我们那个商学院的项目最初的demo就是使用java写的，后来我们考虑到concurrency level，用户使用等等都问题，一致认为用现代web开发语言和运行环境会比较好，于是换成了typescript（javascript的超类）加上node.js。至于SQL，我在多个项目中用PostgreSQL写过复杂查询、优化索引等，切换到MySQL这样的关系型数据库也完全没问题。
 
 __3. Why BASF__
 英文：
-I have to admit that BASF stands out to me mostly because of its global presence. BASF has a Toronto office and many other offices all over the world. but also its commitment to digital transformation. I'm particularly interested in how your team extends enterprise-level platforms like Documentum across regions. I rarely have the chance to 接触这种应用到全球的项目，并且相信它会有很多意想不到的性能问题可以思考. 这种visoin对成长为一个高级工程师或者pm非常有帮助。This is a great opportunity for me to gain cross-cultural communication experience and understand how large-scale systems are maintained and evolved in a real-world business context. 从国内的角度，外企对人都非常尊重，invest in people投资人，是适合个人提升的地方。
+- I have to admit that BASF stands out to me mostly because of its global presence. BASF has a Toronto office and many other offices all over the world. 
+- its commitment to digital transformation. I'm particularly interested in how your team extends enterprise-level platforms like Documentum across regions.
+- I rarely have the chance to 接触这种应用到全球的项目，并且相信它会有很多意想不到的性能问题可以思考. 这种visoin对成长为一个高级工程师或者pm非常有帮助。
+- from jd, likely to collaborate with ppl in german or other countries. This is a great opportunity for me to __gain cross-cultural communication experience__ and understand how large-scale systems are maintained and evolved in a real-world business context. 从国内的角度，外企对人都非常尊重，invest in people投资人，是适合个人提升的地方。\
+
 
 中文：
 我对BASF的兴趣不仅因为它是全球领先的企业，更因为你们在推动数字化转型方面的努力。我特别想学习你们是如何在不同区域部署和维护Documentum这样的大型平台的，这对于我未来在企业系统和跨文化团队合作方面的能力提升非常有帮助。
+
+
