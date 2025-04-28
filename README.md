@@ -39,3 +39,10 @@ HR interview必须准备的问题
 bq问题-比如组队遇到李心悦这种人怎么办，怎么进行项目管理：用什么工具去check in with everyone，比如每天组织会议
 - 还有产品设计的时候，为什么选这个技术栈，为什么这么设计
 - 比如这个hackathon，就是为了敏捷开发，考虑了用户量啊等等，api纯后端
+
+4.27
+- Start from the backend: gives a solid foundation in programming and problem solving; if you start from the frontend, backend would look like a mystery
+  不仅要学language，还要学习它的tools and ecosystem
+- data structures
+- design patterns
+<img width="691" alt="Screenshot 2025-04-27 at 8 41 47 PM" src="https://github.com/user-attachments/assets/134d1100-d940-480f-a46a-66f0abfcdea7" />
