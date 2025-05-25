@@ -58,4 +58,9 @@ Team culture, company culture很好
 
 
 6. career goal
+
+<img width="814" alt="Screenshot 2025-05-02 at 12 44 02 AM" src="https://github.com/user-attachments/assets/fb80208f-91f7-4fc1-8a47-dfebce1ac474" />
+
+
+
    
