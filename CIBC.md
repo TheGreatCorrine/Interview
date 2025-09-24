@@ -42,4 +42,14 @@ Natural Language Processing
    
 5. Tell me about yourself.
    [Equivalent] Walk me through your resume.
-6. How do you explain some concepts to people with non-technical backgrounds? (她问这个问题应该是随机的）
+
+   1. Background:
+      Of course! Just to give you a quick overview, I actually have a blended background in both business and computer science. I started my studies in Rotman Commerce, and gained a strong foundation in business. I also polished my people skills at Rotman. Later I transitioned into Computer Science because I wanted to focus more on the technology side. I see the growing potentials of GenAI and how it can change people's lives. Along the way, I've done well academically, (I think you can see that from my transcript). But more importantly, I really enjoy applying my knowledge to real-world projects and building meaningful softwares.
+
+   2. Project/Internship: For example, I recently worked as an AI intern at BSH, where I helped develop a food freshness detection system on Raspberry Pi devices. I helped deploy the Python model. I also built a prototype. It was an intelligent refrigerator testing data monitor system, which saved test engineers one hour a day. 
+      Re:Pair Genomics: the internal Human Resources Management. I proposed a serverless architecture for the system. This solution made the system scalable, and also cut the infrastructure costs by over $100 per employee per month.
+      I was also working part-time at the Rotman School of Management and helped them maintain their trading apps. That's an evidence of combining tech and business.
+
+   3. Conclusion: Overall, I bring strong 
+   
+7. How do you explain some concepts to people with non-technical backgrounds? (她问这个问题应该是随机的）
