@@ -32,12 +32,12 @@ Natural Language Processing
       Altogether, I see CIBC as a place where I can contribute meaningfully, and grow both technically and professionally.
    
    **Why are you interested in this role particularly?**
-   For this role specifically, I think it’s a great fit for my unique background.
-   The posting mentioned Enterprise Technology and Business Management — and I bring both: I started in business at Rotman before fully focusing on computer science.
-   That means I not only have strong technical skills, but I also understand client needs and business logic better than most developers.
-   I see CIBC as the perfect platform to further polish my technical skills in a well-structured organization, and hopefully contribute to projects that can impact millions of people.
+   1. For this role specifically, I think it’s a great fit for my unique background.
+   2. The posting mentioned Enterprise Technology and Business Management — and I bring both: I started in business at Rotman before fully focusing on computer science.
+   3. That means I not only have strong technical skills, but I also understand client needs and business logic better than most developers.
+   4. I see CIBC as the perfect platform to further polish my technical skills in a well-structured organization, and hopefully contribute to projects that can impact millions of people.
 
-   [This unique blend(combination of Enterprise Technology and Business Management) really attracts me. Hope to work on interesting and meaningful projects]
+   4. [This unique blend(combination of Enterprise Technology and Business Management) really attracts me. Hope to work on interesting and meaningful projects]
    
    
 5. Tell me about yourself.
