@@ -76,6 +76,8 @@ BQ
    After the ddl, initial version of what they described, showed it to them, and let them confirm if it was what they had in mind
    I adjust the solution step by step and wrote documentations.
    After clarifying everything, the development itself was not that hard. It was really about narrowing down the business needs and the demo was successful.
+3. Deal with a difficult team member
+   Sure. A different 
 
 
    
