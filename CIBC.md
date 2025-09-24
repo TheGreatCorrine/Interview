@@ -51,5 +51,31 @@ Natural Language Processing
       I was also working part-time at the Rotman School of Management and helped them maintain their trading apps. That's an evidence of combining tech and business.
 
    3. Conclusion: Overall, I bring strong 
+
+
+BQ   
+1. How do you explain some concepts to people with non-technical backgrounds? (她问这个问题应该是随机的）
+   Absolutely, when it comes to explaining:
+   I really focus on two things:
+   1. I put myself in their shoes - understand their domain, what they care about, so I can speak their language.
+   2. I tailor the information to what they need to know
+      For users, that might mean a simple user guide on how to use the app.
+      For managera, a clear project timeline. 
+      For colleagues, I might use an analogy to make it relatable
+   I adpated my communication style
+2. The challenge you met during internship?
+   Sure. One of my the challenge I met
+   1. Translate non-technical stakeholder Speak their language
+   2. Understand client needs
+     figuring out exactly what the clients wanted because their needs change almost every week.
+      For example, in the first week, they told me they wanted an Ai agent that can analyze testing data from historal records
+      Then the very next week, they said they wanted a real-time monitoring
+      And after that, they decided they no longer need theed user authentication anymore, so I had to refactor the whole backend.      
+   They were not sure what they wanted - so ambuguities
+   To manage all the changes, I gathered everyone together and asked them to set a deadline for finalizing thier needs. We agreed to have frequent meetings before that deadline to clarify everything and after that day passed, they commited to only make small changes.
+   After the ddl, initial version of what they described, showed it to them, and let them confirm if it was what they had in mind
+   I adjust the solution step by step and wrote documentations.
+   After clarifying everything, the development itself was not that hard. It was really about narrowing down the business needs and the demo was successful.
+
+
    
-7. How do you explain some concepts to people with non-technical backgrounds? (她问这个问题应该是随机的）
