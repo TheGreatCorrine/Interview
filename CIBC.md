@@ -79,7 +79,11 @@ BQ
 3. Deal with a difficult team member
    Sure. A different
 4. High stress
-5. Adaptability (similar to high stress)
+   Last semester was one of the toughest times for me. My grandfather passed away, and at the same time I was enrolled in six courses, had five interviews lined up, and also participated in one hackathon.
+   prioritizing and organizing - detailed schedule to block time
+   leaned on my teammates for collaboration instead of trying to do everything myself
+   short breaks; seek supports
+6. Adaptability (similar to high stress)
 
 
 1. BSH FFD
