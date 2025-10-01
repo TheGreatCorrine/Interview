@@ -60,9 +60,9 @@ BQ
    1. I put myself in their shoes - understand their domain, what they care about, so I can speak their language.
    2. I tailor the information to what they need to know
       For users, that might mean a simple user guide on how to use the app.
-      For managera, a clear project timeline. 
+      For managers, a clear project timeline. 
       For colleagues, I might use an analogy to make it relatable
-   I adpated my communication style
+   I adapted my communication style
 2. The challenge you met during internship?
    Sure. One of my the challenge I met
    1. Translate non-technical stakeholder Speak their language
@@ -77,7 +77,21 @@ BQ
    I adjust the solution step by step and wrote documentations.
    After clarifying everything, the development itself was not that hard. It was really about narrowing down the business needs and the demo was successful.
 3. Deal with a difficult team member
-   Sure. A different 
+   Sure. A different
+4. High stress
+5. Adaptability (similar to high stress)
 
 
-   
+1. BSH FFD
+   - involves a refrigerator setup, where we placed a Raspberry Pi and a camera. There were also sensor data collectors. When you open the drawer and put some food inside, it starts capturing images and analyzing the data. I mainly work with Python to update backend code. Since you could replace chips, I ended up developing different features on different devices.
+   - Reboot：original solution - we had an external executable for one of the sensor collectors that the main Python script couldn't directly control. Essentially, the sensor process would continue running indefinitely and wouldn't terminate with the rest of the code.
+     The old approach - reboot the whole Raspberry Pi to reset everything. downtime. offset.
+     a system service
+2. BSH Smart Monitor
+   - application developed for refrigerator testing engineers to monitor testing data in real-time
+   - 
+   - architecture (prototype + ai integration
+4. HRM:
+   - a light-weight HRM portal focused on payroll; a portal for their employees to manage their accounts and receive their pay automatically (ADP)
+   - The client was a startup with small number of users 1. keep costs down 2. easy to maintain 3. low-volume
+   - Why serverless 
