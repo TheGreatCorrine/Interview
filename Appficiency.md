@@ -26,3 +26,56 @@
    - I don’t have direct hands-on experience with NetSuite yet, but I do have a strong web development foundation in JavaScript and TypeScript. Since SuiteScript is built on JavaScript, I feel confident that my existing skills will transfer smoothly.
    - In addition, I’ve worked on a project developing a small HRM system, which gave me experience in understanding business logic and translating it into system workflows — very similar to what NetSuite customization requires. I have also learned about ERP softwares provided by SAP.
    - To prepare for this role, I’ve also been watching NetSuite and SuiteScript tutorials on YouTube, so I’m already familiar with the platform concepts. Altogether, while I haven’t used NetSuite directly, I believe I can ramp up quickly and be productive in a short time.
+
+
+
+BQ   
+1. How do you explain some concepts to people with non-technical backgrounds? (她问这个问题应该是随机的）
+   Absolutely, when it comes to explaining:
+   I really focus on two things:
+   1. I put myself in their shoes - understand their domain, what they care about, so I can speak their language.
+   2. I tailor the information to what they need to know
+      For users, that might mean a simple user guide on how to use the app.
+      For managers, a clear project timeline. 
+      For colleagues, I might use an analogy to make it relatable
+   I adapted my communication style
+
+2. The challenge you met during internship?
+   Sure. One of my the challenge I met
+   1. Translate non-technical stakeholder Speak their language
+   2. Understand client needs
+     figuring out exactly what the clients wanted because their needs change almost every week.
+      For example, in the first week, they told me they wanted an Ai agent that can analyze testing data from historal records
+      Then the very next week, they said they wanted a real-time monitoring
+      And after that, they decided they no longer need theed user authentication anymore, so I had to refactor the whole backend.      
+   They were not sure what they wanted - so ambuguities
+   To manage all the changes, I gathered everyone together and asked them to set a deadline for finalizing thier needs. We agreed to have frequent meetings before that deadline to clarify everything and after that day passed, they commited to only make small changes.
+   After the ddl, initial version of what they described, showed it to them, and let them confirm if it was what they had in mind
+   I adjust the solution step by step and wrote documentations.
+   After clarifying everything, the development itself was not that hard. It was really about narrowing down the business needs and the demo was successful.
+
+4. High stress
+   Last semester was one of the toughest times for me. My grandfather passed away, and at the same time I was enrolled in six courses, had five interviews lined up, and also participated in one hackathon.
+   prioritizing and organizing - detailed schedule to block time
+   leaned on my teammates for collaboration instead of trying to do everything myself
+   short breaks; seek supports
+6. Adaptability (similar to high stress)
+
+
+1. BSH FFD
+   - involves a refrigerator setup, where we placed a Raspberry Pi and a camera. There were also sensor data collectors. When you open the drawer and put some food inside, it starts capturing images and analyzing the data. I mainly work with Python to update backend code. Since you could replace chips, I ended up developing different features on different devices.
+   - Reboot：original solution - we had an external executable for one of the sensor collectors that the main Python script couldn't directly control. Essentially, the sensor process would continue running indefinitely and wouldn't terminate with the rest of the code.
+     The old approach - reboot the whole Raspberry Pi to reset everything. downtime. offset.
+     a system service
+2. BSH Smart Monitor
+   - application developed for refrigerator testing engineers to monitor testing data in real-time
+   - 
+   - architecture (prototype + ai integration
+4. HRM:
+   - a light-weight HRM portal focused on payroll; a portal for their employees to manage their accounts and receive their pay automatically (ADP)
+   - The client was a startup with small number of users 1. keep costs down 2. easy to maintain 3. low-volume
+   - Why serverless 
+
+
+
+
