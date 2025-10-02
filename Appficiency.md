@@ -60,6 +60,7 @@ BQ
    leaned on my teammates for collaboration instead of trying to do everything myself
    short breaks; seek supports
 6. Adaptability (similar to high stress)
+   Raspberry Pi
 
 
 1. BSH FFD
