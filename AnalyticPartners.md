@@ -27,3 +27,5 @@ Software as a Service - Saas Company that helps their clients
 
 4. Work onsite
 I'm very willing to relocate, and I can also work remotely as I noticed from LinkedIn, one of the software developers is working from Sebrina.
+
+
