@@ -31,3 +31,7 @@ I’m proud of this project because it showed me that even as an intern, I could
    I’m also proactive — during my internship, I found ways to improve workflows and even helped save costs — so I’d bring that same energy and curiosity to your team.
 
 7. Knowledge of Canada Life
+
+
+
+salesforce - ask about apex
