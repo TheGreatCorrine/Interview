@@ -29,3 +29,5 @@ I’m proud of this project because it showed me that even as an intern, I could
    I think you should hire me because I have both the technical background and the mindset to make an impact quickly.
    I’ve built real projects from backend to frontend, and I’m comfortable learning new tools fast.、
    I’m also proactive — during my internship, I found ways to improve workflows and even helped save costs — so I’d bring that same energy and curiosity to your team.
+
+7. Knowledge of Canada Life
