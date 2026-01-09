@@ -46,3 +46,25 @@ bq问题-比如组队遇到李心悦这种人怎么办，怎么进行项目管�
 - data structures
 - design patterns
 <img width="691" alt="Screenshot 2025-04-27 at 8 41 47 PM" src="https://github.com/user-attachments/assets/134d1100-d940-480f-a46a-66f0abfcdea7" />
+
+
+
+2026 Plan
+
+2026.1:
+- Prepare csc236 final exam
+- Get to know Terminal and learn new tech stacks
+- Start browsing Gsoc projects
+
+2026.2:
+- Take csc236 deferred final exam
+- Gsoc orgs pronounced (2.19)
+
+2026.3:
+- Gsoc proposals
+- LFX Mentorship - Kyverno ( Term2: Jun - Aug )
+- Portfolio
+- Leetcode - graph
+
+2026.4:
+- Leetcode 100
