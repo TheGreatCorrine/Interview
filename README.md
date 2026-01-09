@@ -62,7 +62,10 @@ bq问题-比如组队遇到李心悦这种人怎么办，怎么进行项目管�
 
 2026.3:
 - Gsoc proposals
-- LFX Mentorship - Kyverno ( Term2: Jun - Aug )
+- LFX Mentorship - Kyverno
+  - Term1: Mar - May
+  - Term2: Jun - Aug
+  - Term3: Sep - Nov
 - Portfolio
 - Leetcode - graph
 
