@@ -8,7 +8,9 @@ This tracker is for roles starting in Winter 2027. Each job description should b
 
 | Company | Role | Date Posted | Job Description | Applied |
 | --- | --- | --- | --- | --- |
-| RBC | 2027 Winter Student Opportunities, Capital Markets QTS - Software Developer, 4 months | 2026-08-17 | [HTML](./RBC-Capital-Markets-QTS-Software-Developer-4-months.html) | - [ ] |
+| RBC | 2027 Winter Student Opportunities Technology & Operations - Software Developer, 4 Months | 2026-08-21 | [PDF](<./2027 Winter Student Opportunities Technology & Operations - Software Developer, 4 Months in TORONTO, Ontario, Canada _ Rotational Programs _ Internships at RBC _ Jobs at RBC.pdf>) | - [ ] |
+| RBC | 2027 Winter Student Opportunities RBC Borealis - Software Developer, 4-8 Months | 2026-08-18 | [HTML](./RBC-Borealis-Software-Developer-4-8-Months.html) | - [ ] ❗️ |
+| RBC | 2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months | 2026-08-17 | [PDF](<./2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months in MONTRÉAL, Quebec, Canada _ Rotational Programs _ Internships at RBC _ Jobs at RBC.pdf>) | - [ ] |
 
 ## Job List (Summer)
 
