@@ -12,6 +12,7 @@ This tracker is for roles starting in Winter 2027. Each job description should b
 | RBC | 2027 Winter Student Opportunities RBC Borealis - Software Developer, 4-8 Months | 2026-08-18 | [HTML](./RBC-Borealis-Software-Developer-4-8-Months.html) | [ ] ❗️ |
 | RBC | 2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months | 2026-08-17 | [PDF](<./2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months in MONTRÉAL, Quebec, Canada _ Rotational Programs _ Internships at RBC _ Jobs at RBC.pdf>) | [x] |
 | IGM Financial | Winter Intern 2027 - Business and Data Platforms | Unknown | [PDF](<./IGM Financial Career Opportunities_ Winter Intern 2027 - Business and Data Platforms (14221).pdf>) | [ ] |
+| EnerSys | Software Engineering Co-Op | Unknown | [PDF](<./Software Engineering Co-Op Job Details _ EnerSys Delaware Inc_.pdf>) | [ ] |
 
 ## Job List (Summer)
 
