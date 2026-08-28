@@ -13,6 +13,8 @@ This tracker is for roles starting in Winter 2027. Each job description should b
 | RBC | 2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months | 2026-08-17 | [PDF](<./2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months in MONTRÉAL, Quebec, Canada _ Rotational Programs _ Internships at RBC _ Jobs at RBC.pdf>) | [x] |
 | IGM Financial | Winter Intern 2027 - Business and Data Platforms | Unknown | [PDF](<./IGM Financial Career Opportunities_ Winter Intern 2027 - Business and Data Platforms (14221).pdf>) | [ ] |
 | EnerSys | Software Engineering Co-Op | Unknown | [PDF](<./Software Engineering Co-Op Job Details _ EnerSys Delaware Inc_.pdf>) | [ ] |
+| Zip | Software Engineer Intern (Winter 2027) | Unknown | [PDF](<./Software Engineer Intern (Winter 2027) @ Zip.pdf>) | [ ] |
+| BMO | Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op/Internship) | Unknown | [PDF](<./BMO Capital Markets Winter 2027, Full Stack Engineer, Toronto (Co-Op_ Internship).pdf>) | [ ] |
 
 ## Job List (Summer)
 
