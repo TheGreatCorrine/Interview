@@ -23,10 +23,12 @@ Technologies I worked with: Python, Java, JavaScript
 
 ### 2. Why Kinaxis
 What stood out to me was the **Data Ingestion team**. In my most recent internship, I really enjoyed working on backend platform and data integration problems, so when I saw that this team is building infrastructure to move data in and out of the Kinaxis platform at scale, it felt very closely aligned with the kind of engineering I want to continue doing.
+One thing that stood out to me about Kinaxis is actually the way you treat interns. I looked into some of the previous co-op experiences, and it seems like interns here get to work on real product and engineering problems rather than just small side projects.
+At this point, since I’ve already done a few software internships, that’s really what I’m looking for. I want to spend a longer term getting deeper into a mature codebase and actually owning meaningful work.
 
-I also like that it’s an enterprise product operating at meaningful scale, because I’d like to get more exposure to production backend and distributed systems.
+I also think Kinaxis is interesting to me personally because it sits at the intersection of technology and business. I came into CS from a business background, so working on software that solves real enterprise and supply-chain problems is something I’d genuinely like to learn more about.
 
-why this job/team/company/industry
+get out of: depth, ownership, learn from experienced engineers.
 ### 3. Eligibility
 8- or 12- month? Yes. I’m currently based in Toronto for school, but I’d be comfortable relocating to Ottawa.
 Graduate? Currently, it's Dec 2027 if I take an eight-month internship. And I could extend my graduation to Apr 2028 if needed for a twelve-month internship
@@ -35,3 +37,33 @@ Graduate? Currently, it's Dec 2027 if I take an eight-month internship. And I co
 1. Teamwork
 2. Strength/Weakness
 3. Difficult person
+
+[strength]
+I'd say one of my biggest strengths is that I learn quickly, especially when I'm entering a new technical area. I came into CS from a business background, I was originally studying both. so I've had to get comfortable ramping up fast. 
+In my last internship, the team was originally looking for master's students, and I joined a pretty complex data platform team where the systems and codebase were new to me. 
+What works for me is understanding the big picture first, then breaking things down and learning each part. I also spend some time outside work reading docs or doing small practice projects. That helped me ramp up quickly, and by my third month, I was working on one of my first larger features pretty independently.
+
+[weakness]
+Asking for help earlier.
+Sometimes I hesitate to bother other people, especially when everyone is busy. My first instinct is usually to spend more time trying to figure things out on my own because I feel like I should be able to learn it myself.
+But my manager gave me really helpful feedback during my last internship. He told me that sometimes the problem isn’t that I haven’t tried hard enough — it’s that I simply don’t have the context yet.
+That changed how I think about asking questions. Now, I still try to investigate things on my own first, but if I realize I’m missing context or spending too long in one direction, I ask earlier instead of just putting more hours into it.
+
+[difficult]
+I usually try not to think of someone as a difficult person. 
+Most of the time, it’s more about different working or communication styles.
+I’d first try to understand where the friction is coming from, then adjust how I communicate and make expectations clearer. If it still affects the work, I’d address it directly and respectfully rather than letting it build up.
+
+一般不会选difficult person
+One example was during a group project at school. We had one teammate who was frequently late to meetings, would leave early, and sometimes became completely unresponsive when we were getting close to deadlines.
+We first tried reaching out to him directly and asking if there was anything going on or anything we could do to help, but we didn’t really get much response. After that, we asked our teaching assistant to help us contact him, and we also made it clear that we really wanted him to contribute, but if the situation continued, we would have to reflect it honestly in the peer evaluation.
+Eventually, when we still couldn’t reach him consistently, we redistributed his remaining work across the rest of the team. At that point, our priority was making sure the group could still finish the project on time.
+We did complete the project, and when we submitted the peer evaluation, we were honest about what had happened and each person’s contribution. I think what I learned from that experience is to communicate directly first and give people a fair chance, but also know when you need to escalate and protect the rest of the team.
+
+[teamwork]
+clear mutual goal and motivation
+
+[conflicts]
+
+[ambiguites] - [challenging project]
+
