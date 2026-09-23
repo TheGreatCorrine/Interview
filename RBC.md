@@ -25,7 +25,13 @@ Why T&O
 - conflict
 - collaboration (difficult team member)
 - a project you are proud of / ambiguities
-   [technical/non-technical]
+   [technical/non-technical]One project I own during my last internship was a validation feature for new data providerse. When we onboarded a new provider, the system would always run an initial data backfill, which could include up to two years of historical data.
+  We already had data quality checks in place, and the problem was that those were mainly used for ongoing data. We did not have a dedicated ways to validate that very first backfill. That way, if something went wrong during the first backfill, we could catch it early and work with the providers to see if the issue was on our side or theirs.
+  So my project was to build that workflow.
+  One challenge was the deduplication. System was event-drive: backfill could trigger twice, same job could be uoloaded to temporal twice. What if the same job is sent twice or fails halfway through, or comes in again later. They pushed my beyond just making the happy path work.
+
+  I got to design a large workflow from the ground up. At first, in sounded like a straightfoward task, but after talking with my team and manager, I ended up rethinking and redesigning  I was making design decisitons and iterating on them until the workflow was somethinhg the team could rely on.
+
   
 - strength / weakness / areas of improvement / critical feedback
   [strength] I'd say one of my biggest strengths is that I learn quickly, especially when I'm entering a new technical area. I came into CS from a business background, I was originally studying both. so I've had to get comfortable ramping up fast. In my last internship, I joined a pretty complex data platform team where the systems and codebase were new to me. What works for me is understanding the big picture first, then breaking things down and learning each part. I also actively asked for feedback from my manager so I could understand where I needed to improve. The combination of learning independently and being open to feedback has helped me ramp up pretty quickly in a new environment.
