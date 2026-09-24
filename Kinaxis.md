@@ -67,3 +67,38 @@ clear mutual goal and motivation
 
 [ambiguites] - [challenging project]
 
+
+## Technical Interview
+### Leetcode
+
+
+
+Resume Deep Dive:
+- three layer deduplication
+### ETL
+
+  Professionally, I worked with data ingestion and backfill workflows using Spark and Flink. I also had some earlier academic experience building a Python data preprocessing pipeline.
+  I worked closely with a large data ingestion system. There was another team that owned more of the upstream ingestion work.
+  I first noticed the issue through an Athena query. For one provider, Samsara, some of the g-force fields were unexpectedly missing.
+  My instinct was the provider-specific mapping was wrong, so I looked into the Java mapping code, but that looked correct. Then I checked the corresponding records in DynamoDB and found that the source values were actually there.
+  That helped me narrow the issue down to the path between DynamoDB and Iceberg. I traced it into our Flink CDC pipeline and found a JavaBean naming convention issue during deserialization.
+<img width="684" height="264" alt="Screenshot 2026-09-23 at 20 18 59" src="https://github.com/user-attachments/assets/bfb7a605-b05b-4f7a-bdbc-1d8d8d295c07" />
+
+  Pyspark historical backfill counts: pretty ETL style 读取受影响的历史数据 → 根据正确逻辑补齐/重建缺失字段 → 写回 Iceberg
+  Extract：从 source table / storage 读历史数据
+  Transform：修复、清洗、重算字段
+  Load：把修好的数据写回目标表
+
+  Take a NLP course one year ago.
+
+- Docker
+  AIO Local Setup
+- Kubernetes: autoscale containerized across multiple servers
+  docker: 把app装进container；kubernetes：管这些containers；helm：把怎么部署这些盒子的kubernetes配置打包（Helm is basically a package manager and templating tool for Kubernetes）
+- kinesis, data streaming real-time event data
+
+### React
+  React app 由 Reusable components组成，组件接收 props，维护自己的 state，然后根据 state render UI
+  I used React and Next.js more heavily in an earlier full-stack internship, where I worked on an internal HR management system with features like authentication, role-based access control, and timesheets. My more recent internships have been much more backend and data focused, so React isn't my strongest stack today, but I'm comfortable working in an existing React codebase and picking it back up when needed.
+  
+
