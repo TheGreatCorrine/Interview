@@ -34,20 +34,20 @@ Why T&O
 
   ```
   sync.completed
-   ↓
-EventBridge / Lambda
-   ↓
-SQS
-   ↓
-Spring Boot @SqsListener
-   ↓
-判断是不是 new provider 的 first backfill
-   ↓
-对 provider × table 做 dedup / eligibility check
-   ↓
-触发已有的 Spark DQ checks
-
+      ↓
+   EventBridge / Lambda
+      ↓
+   SQS
+      ↓
+   Spring Boot @SqsListener
+      ↓
+   判断是不是 new provider 的 first backfill
+      ↓
+   对 provider × table 做 dedup / eligibility check
+      ↓
+   触发已有的 Spark DQ checks
   ```
+
 - strength / weakness / areas of improvement / critical feedback
   **[strength]** I'd say one of my biggest strengths is that I learn quickly, especially when I'm entering a new technical area. I came into CS from a business background, I was originally studying both. so I've had to get comfortable ramping up fast. In my last internship, I joined a pretty complex data platform team where the systems and codebase were new to me. What works for me is understanding the big picture first, then breaking things down and learning each part. I also actively asked for feedback from my manager so I could understand where I needed to improve. The combination of learning independently and being open to feedback has helped me ramp up pretty quickly in a new environment.
 
