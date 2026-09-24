@@ -100,5 +100,7 @@ Resume Deep Dive:
 ### React
   React app 由 Reusable components组成，组件接收 props，维护自己的 state，然后根据 state render UI
   I used React and Next.js more heavily in an earlier full-stack internship, where I worked on an internal HR management system with features like authentication, role-based access control, and timesheets. My more recent internships have been much more backend and data focused, so React isn't my strongest stack today, but I'm comfortable working in an existing React codebase and picking it back up when needed.
-  
+
+### Q&A
+How much of the team’s work is focused on building the ingestion platform itself versus configuring mappings and transformations for different data sources?
 
