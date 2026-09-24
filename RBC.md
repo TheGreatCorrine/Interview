@@ -35,15 +35,16 @@ Why T&O
   ```
   sync.completed
       ↓
-   EventBridge / Lambda
+   EventBridge / Lambda (my workflow subscribes to an existing event)
       ↓
-   SQS
+   SQS(decouple, provide butter)
       ↓
    Spring Boot @SqsListener
       ↓
    判断是不是 new provider 的 first backfill
       ↓
    对 provider × table 做 dedup / eligibility check
+   Redis(dq:samsara:vehicles， dq:samsara:drivers:concurrent racing), Icebeg(historical source of truth), race condition(temporal use deterministic id)
       ↓
    触发已有的 Spark DQ checks
   ```
