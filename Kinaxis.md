@@ -93,6 +93,16 @@ Resume Deep Dive:
 
 - Docker
   AIO Local Setup
+  把 Data Platform 那套很重、很依赖 AWS/staging 的本地开发环境，尽量收敛成一个可以本地跑通的 all-in-one happy path。
+  ```
+    generate / ingest test data
+          ↓
+  Flink / Spark processing
+          ↓
+  local storage/query layer
+          ↓
+  Query Engine / DQ validation
+  ```
 - Kubernetes: autoscale containerized across multiple servers
   docker: 把app装进container；kubernetes：管这些containers；helm：把怎么部署这些盒子的kubernetes配置打包（Helm is basically a package manager and templating tool for Kubernetes）
 - kinesis, data streaming real-time event data
