@@ -20,7 +20,8 @@ I also had some exposure to PySpark through a separate historical backfill and t
    - If I were selected for the role, I'd definitely spend some time before the internship getting more comfortable with GCP. I'd probably build a small project with the services the team uses
   
 3. File formats (AVRO / ORC / Parquet)
-   1. vs CSV/JSON
+   1. `.csv`, `.json` `.parquet` 文件格式
+   2. Unlike `csv`, which is row-oriented, parquet is **binary** **column-oriented**, so when you query, 只读取相关column
 
 
 
@@ -31,3 +32,10 @@ I also had some exposure to PySpark through a separate historical backfill and t
 
 5. Distributed systems
    replication、fault tolerance、consistency、distributed computation
+
+
+6. Shell / CI
+
+7. Python
+   最熟悉的，my computer science mother language
+   live coding, building ETL, write scripts, BSH raspberry pi python, ...
