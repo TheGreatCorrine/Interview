@@ -12,6 +12,7 @@ So yeah, that’s a quick overview of my background. I’d be happy to go into m
 
 ### Why this role/team/company
 Honestly, when I first saw the job description, I got pretty excited because it felt so close to what I’d been doing in my last internship. So seeing a role that would let me go deeper into data engineering felt like a really natural next step.
+learning on the job - it asks for foundational knowledge and willingness to learn
 
 I was also really excited about the GCP part. Most of my cloud experience has been with AWS — I always joke that once you have AWS on your resume, somehow every job after that also involves AWS. So I’ve actually been looking for a chance to branch out and work more deeply with another cloud platform.
 I was honestly a little worried I wouldn’t get an interview, so I even reached out to the recruiter（lipsa.thakur@definity.com）on LinkedIn after I applied. So yeah, I was genuinely really happy when I got the interview.
