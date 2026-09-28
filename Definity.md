@@ -69,13 +69,20 @@ I originally started learning about these data formats because I was working aro
 
 
 7. Shell / CI
+   Yeah, quite a bit, especially from my internship at BSH. I was working on a Raspberry Pi-based AI system, so a lot of the infrastructure was pretty lightweight and Linux-based.
+I used shell scripts for things like starting and managing the application, environment setup, and automating recurring tasks. We also used cron for scheduling and systemd for managing long-running services.
+One reliability issue I worked on was that the device had been relying on hardcoded daily reboots to keep the application running. I replaced that with systemd-managed services, so the process could be managed and restarted properly without rebooting the whole Raspberry Pi.
+So my shell experience is mostly practical infrastructure and automation work rather than writing really large Bash applications.
 
-8. Python
+CI/CD:
+GitHub Actions → personally modified workflow YAML → understands triggers/jobs/steps/checks → Git/PR workflow → Docker/deployment → Jenkins 没直接用过，但 concepts transfer.
+
+9. Python
    Python is probably my most comfortable language. I sometimes joke that it's basically my mother programming language. I've been using it for around four years, for everything from backend development and scripting to PySpark and ML projects. I also used it pretty heavily at BSH on a Raspberry Pi application. So yeah, Python is definitely the language I'm most comfortable picking up and building something with.
 
-9. Scala
+10. Scala
     I haven't written Scala code directly. My previous team had some existing Spark jobs written in Scala, so I've read through Scala code at work and I'm somewhat familiar with what it looks like. But I didn't personally modify those jobs.
 The Spark code I worked on directly was in PySpark, for a historical backfill. So I'd say I have some exposure to Scala, but my hands-on Spark experience is mainly with PySpark.
 
-10. Questions to ask
+11. Questions to ask
    From the job description, it sounds like the team works with data moving between legacy systems and the cloud. I was also curious what the day-to-day engineering work looks like. Is it mostly scripting and automation, or would I also get to work on data pipelines or larger components of the platform?
