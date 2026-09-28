@@ -22,12 +22,19 @@ corporate values:
 - We work together to win together — collaboration、respect、learning from each other
 
 ### Data Engineering Concepts
-1. How's Terminal (first sync) relevant to Data Ingestion?
-   - the project itself
-   - how are they relevant
-My previous experience has been more on the software and platform engineering side rather than pure data engineering, but there's quite a bit of overlap with this role.
-In my most recent internship, I worked in an existing distributed system and implemented backend logic around a backfill workflow. That required me to understand how data moved through an existing codebase, how different components interacted, and how we handled things like duplicate processing and historical data.
-I also had some exposure to PySpark through a separate historical backfill and to a Flink CDC issue. So I wouldn't say I've built a data platform from scratch, but I've worked with several of these concepts in production, and I'm interested in understanding the data engineering side more deeply.
+1. Spark
+   Yeah, I used Spark quite a bit in my last internship. We had a **local Spark** environment running in Docker for development, and we also submitted Spark jobs to **EMR** for larger data quality checks. I used the **Spark UI** to inspect and monitor jobs as well.
+On the code side, I read through some of our existing Spark logic written in Scala, although I didn’t directly modify the Scala code. My more hands-on coding experience was with PySpark, where I worked on a historical backfill.
+
+// 
+   Yeah. I used PySpark for a historical backfill in my last internship. We needed to reprocess some historical data。
+  I worked closely with a large data ingestion system. There was another team that owned more of the upstream ingestion work.
+  I first noticed the issue through an Athena query. For one provider, Samsara, some of the g-force fields were unexpectedly missing.
+  My instinct was the provider-specific mapping was wrong, so I looked into the Java mapping code, but that looked correct. Then I checked the corresponding records in DynamoDB and found that the source values were actually there.
+  That helped me narrow the issue down to the path between DynamoDB and Iceberg. I traced it into our Flink CDC pipeline and found a JavaBean naming convention issue during deserialization.
+<img width="684" height="264" alt="Screenshot 2026-09-23 at 20 18 59" src="https://github.com/user-attachments/assets/bfb7a605-b05b-4f7a-bdbc-1d8d8d295c07" />
+
+  Pyspark historical backfill counts: pretty ETL style 读取受影响的历史数据 → 根据正确逻辑补齐/重建缺失字段 → 写回 Iceberg
 
 
 
@@ -55,12 +62,6 @@ I also had some exposure to PySpark through a separate historical backfill and t
 I originally started learning about these data formats because I was working around Iceberg and Athena(BigQuery) in my previous internship, so I wanted to understand how the actual data files underneath a table are stored. That's also how I became more familiar with Parquet and columnar storage.
 
    I haven't worked with Parquet directly at a low level. I first learned about it when I was trying to better understand Iceberg, which I worked around in my previous internship. I learned that Iceberg is a table format that manages the underlying data files in object storage like S3, and those data files can be stored in formats like Parquet. So that's how I became familiar with Parquet and columnar storage.
-
-5. Spark
-   - Terminal
-   - PySpark
-   - Concepts
-     Apache Spark is a unified computing engine for parallel data processing.
 
 
 6. Distributed systems
