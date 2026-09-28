@@ -1,7 +1,25 @@
 ### Tell me about yourself
+Sure! I’m a fourth-year student at U of T doing a double degree in Computer Science and Rotman Commerce.
+
+I actually got into software through a part-time work-study role at U of T’s business school. I worked on a financial education platform used by all undergraduate business students.
+
+After that, I did three software engineering internships. My first one was more full-stack. Then I worked on a Python-based AI backend system, and that was also where I got more exposure to cloud infrastructure and DevOps.
+
+I just wrapped up my most recent internship as a data platform engineer. We were processing terabytes of data from over 200 external providers and mapping it into our internal data models. I was on the data platform team, working mainly on backend and data-related systems, including things like data validation, backfills, and distributed processing.
+
+That’s actually why this role stood out to me. It feels like a natural extension of my previous experience, and with more exposure to data engineering and GCP.
+So yeah, that’s a quick overview of my background. I’d be happy to go into more detail on any of those experiences.
 
 ### Why this role/team/company
+Honestly, when I first saw the job description, I got pretty excited because it felt so close to what I’d been doing in my last internship. So seeing a role that would let me go deeper into data engineering felt like a really natural next step.
 
+I was also really excited about the GCP part. Most of my cloud experience has been with AWS — I always joke that once you have AWS on your resume, somehow every job after that also involves AWS. So I’ve actually been looking for a chance to branch out and work more deeply with another cloud platform.
+I was honestly a little worried I wouldn’t get an interview, so I even reached out to the recruiter（lipsa.thakur@definity.com）on LinkedIn after I applied. So yeah, I was genuinely really happy when I got the interview.
+
+corporate values:
+- We are all owners — 强调 accountability、ownership，以及做有判断力的决策。
+- We inspire customer confidence — 强调解决客户和 business 的真实问题、建立信任。
+- We work together to win together — collaboration、respect、learning from each other
 
 ### Data Engineering Concepts
 1. How's Terminal (first sync) relevant to Data Ingestion?
