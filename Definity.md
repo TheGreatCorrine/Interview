@@ -14,12 +14,15 @@ I also had some exposure to PySpark through a separate historical backfill and t
 
 
 2. GCP
-   - I do have some hands-on exposure to GCP. I used it for a hackathon about a year ago, and I'm familiar with the basic concepts.
-   - Most of my cloud experience is with AWS, though. I've been using AWS pretty extensively for about three years, including in production during my internships. I've worked with Lambda, SQS, S3, DynamoDB, Athena, and a few other services. So I'm pretty comfortable with cloud concepts in general.
-   - I haven't had the chance to use GCP in production yet, but I think a lot of the concepts carry over. And honestly, that's part of why I'm interested in this role. I really enjoy working with cloud technologies, but I don't want all of my experience to be limited to AWS.
-   - If I were selected for the role, I'd definitely spend some time before the internship getting more comfortable with GCP. I'd probably build a small project with the services the team uses
+   - I do have some experience with GCP. I used it for a hackathon about a year ago, so I'm familiar with the basics, but most of my cloud experience is with AWS.
+   - I've been using AWS for about three years now, including pretty extensively in production. And I feel like once you have AWS on your resume, somehow every role after that also involves AWS. [laugh]
+   - I'd love to branch out a little and get deeper experience with GCP. A lot of the core concepts carry over, so I don't think I'd be starting from scratch.
+   - And if I joined the team, I'd definitely spend time before January getting more hands-on with the GCP services you use, probably through a small project.
    - **AWS EMR ↔ Google Cloud Dataproc**
    - **S3 ←→ Cloud Storage**
+   - **Athena ↔ BigQuery**
+   - **DynamoDB ↔ Bigtable**
+   - **Iceberg: table format, organizes files as a table**
   
 3. File formats (AVRO / ORC / Parquet)
    1. `.csv`, `.json` `.parquet` 文件格式
@@ -30,8 +33,8 @@ I also had some exposure to PySpark through a separate historical backfill and t
 
    `.avro`: `.csv` data types have to be inferred, avro is defined by schema (written in JSON)
 
-   Exposure: I haven't directly worked with Avro or ORC in production, so my understanding of those is more conceptual. I understand why formats like Avro are useful compared with something like JSON — they're binary, support schemas, and are more efficient for large-scale data systems. I've worked more directly with formats like CSV and JSON.
-I originally started learning about these data formats because I was working around Iceberg and Athena in my previous internship, so I wanted to understand how the actual data files underneath a table are stored. That's also how I became more familiar with Parquet and columnar storage.
+   Exposure: I think my understanding is more conceptual. I understand why formats like Avro are useful compared with something like JSON — they're binary, support schemas, and are more efficient for large-scale data systems. I've worked more directly with formats like CSV and JSON.
+I originally started learning about these data formats because I was working around Iceberg and Athena(BigQuery) in my previous internship, so I wanted to understand how the actual data files underneath a table are stored. That's also how I became more familiar with Parquet and columnar storage.
 
    I haven't worked with Parquet directly at a low level. I first learned about it when I was trying to better understand Iceberg, which I worked around in my previous internship. I learned that Iceberg is a table format that manages the underlying data files in object storage like S3, and those data files can be stored in formats like Parquet. So that's how I became familiar with Parquet and columnar storage.
 
@@ -49,11 +52,11 @@ I originally started learning about these data formats because I was working aro
 7. Shell / CI
 
 8. Python
-   最熟悉的，my computer science mother language
-   live coding, building ETL, write scripts, BSH raspberry pi python, ...
-   sentiment analysis
+   Python is probably my most comfortable language. I sometimes joke that it's basically my mother programming language. I've been using it for around four years, for everything from backend development and scripting to PySpark and ML projects. I also used it pretty heavily at BSH on a Raspberry Pi application. So yeah, Python is definitely the language I'm most comfortable picking up and building something with.
 
+9. Scala
+    I haven't written Scala code directly. My previous team had some existing Spark jobs written in Scala, so I've read through Scala code at work and I'm somewhat familiar with what it looks like. But I didn't personally modify those jobs.
+The Spark code I worked on directly was in PySpark, for a historical backfill. So I'd say I have some exposure to Scala, but my hands-on Spark experience is mainly with PySpark.
 
-9. Questions to ask
-   是否主要工作是写automation scripts
-   最终到gcp，然后可以用athena去query
+10. Questions to ask
+   From the job description, it sounds like the team works with data moving between legacy systems and the cloud. I was also curious what the day-to-day engineering work looks like. Is it mostly scripting and automation, or would I also get to work on data pipelines or larger components of the platform?
