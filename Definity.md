@@ -64,15 +64,13 @@ I originally started learning about these data formats because I was working aro
    I haven't worked with Parquet directly at a low level. I first learned about it when I was trying to better understand Iceberg, which I worked around in my previous internship. I learned that Iceberg is a table format that manages the underlying data files in object storage like S3, and those data files can be stored in formats like Parquet. So that's how I became familiar with Parquet and columnar storage.
 
 
-6. Distributed systems
-   replication、fault tolerance、consistency、distributed computation
 
 
 7. Shell / CI
-   Yeah, quite a bit, especially from my internship at BSH. I was working on a Raspberry Pi-based AI system, so a lot of the infrastructure was pretty lightweight and Linux-based.
+   Yeah, quite a bit, BSH. I was working on a Raspberry Pi-based AI system, so a lot of the infrastructure was pretty lightweight and Linux-based.
 I used shell scripts for things like starting and managing the application, environment setup, and automating recurring tasks. We also used cron for scheduling and systemd for managing long-running services.
+
 One reliability issue I worked on was that the device had been relying on hardcoded daily reboots to keep the application running. I replaced that with systemd-managed services, so the process could be managed and restarted properly without rebooting the whole Raspberry Pi.
-So my shell experience is mostly practical infrastructure and automation work rather than writing really large Bash applications.
 
 CI/CD:
 GitHub Actions → personally modified workflow YAML → understands triggers/jobs/steps/checks → Git/PR workflow → Docker/deployment → Jenkins 没直接用过，但 concepts transfer.
